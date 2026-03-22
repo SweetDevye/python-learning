@@ -1,7 +1,7 @@
 # 🚀 AI Learning Journey（我的AI学习之路）
 
 ## 👩‍💻 About Me
-华南师范大学计算机学院大二在读  
+网络工程大二在读  
 正在从零开始系统学习 AI / Python / 大语言模型  
 
 目标：
